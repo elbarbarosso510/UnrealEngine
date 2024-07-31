@@ -1,0 +1,6 @@
+﻿#map_canvas {
+    position:relative;
+    width: 250px;
+    height: 230px;
+    background-color: #CCC;
+}
